@@ -6,6 +6,4 @@ The data of dogs and cats with label is too larger that I don't want to submit t
 
 The vgg net you can get from https://github.com/machrisaa/tensorflow-vgg, and the parameter you can get from https://s3.amazonaws.com/content.udacity-data.com/nd101/vgg16.npy, and put the vgg16.npy to the dir of tensorflow_vgg.
 
-I will push model and tensorflow log to my online disk, please wait.
-
 Enjoy it!
